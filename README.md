@@ -1,7 +1,7 @@
 # Unity 2D Elevator Simulation
 ---
 
-## Quick Setup (5 minutes)
+## Quick Setup 
 
 ### Requirements
 - Unity 6 (6000.x LTS) with **2D** template
