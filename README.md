@@ -23,7 +23,7 @@
    - In the Inspector, click **Add Component** → search `SceneBuilder` → add it
    - Make sure **Build On Awake** is checked (it is by default)
 
-4. **Press Play** ▶ — the entire scene builds automatically!
+4. **Press Play** ▶ : the entire scene builds automatically!
 
 5. **Export** → Assets menu → **Export Package** → select all → save as `ElevatorSim.unitypackage`
 
