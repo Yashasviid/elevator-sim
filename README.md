@@ -1,6 +1,4 @@
 # Unity 2D Elevator Simulation
-### Underpin Technology Assignment
-
 ---
 
 ## Quick Setup (5 minutes)
@@ -94,14 +92,14 @@ Per-elevator settings (on each `ElevatorController`):
 
 ---
 
-## What Was Implemented
+## What is Implemented ?
 
-✅ 3 elevators with independent movement and request queues  
-✅ 4 floors (Ground, 1, 2, 3)  
-✅ Floor call buttons with pending/arrived visual feedback  
-✅ Nearest-idle-first dispatcher (no all-respond problem)  
-✅ Smooth ease-in/ease-out movement (no teleporting)  
-✅ Door open/close animation  
-✅ Live status strip showing floor and idle/busy state  
-✅ Procedural scene — no manual GameObject setup needed  
-✅ Clean, commented, single-responsibility scripts  
+ -> 3 elevators with independent movement and request queues  
+ -> 4 floors (Ground, 1, 2, 3)  
+ -> Floor call buttons with pending/arrived visual feedback  
+ -> Nearest-idle-first dispatcher (no all-respond problem)  
+ -> Smooth ease-in/ease-out movement (no teleporting)  
+ -> Door open/close animation  
+ -> Live status strip showing floor and idle/busy state  
+ -> Procedural scene : no manual GameObject setup needed  
+ -> Clean, commented, single-responsibility scripts  
