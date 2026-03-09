@@ -11,7 +11,7 @@
 
 1. **Open Unity Hub** → New Project → **2D (Core)** template → name it `ElevatorSim`
 
-2. **Copy scripts** — drag all 5 `.cs` files from the `Assets/Scripts/` folder into your Unity project's `Assets/Scripts/` folder:
+2. **Copy scripts** : drag all 5 `.cs` files from the `Assets/Scripts/` folder into your Unity project's `Assets/Scripts/` folder:
    - `ElevatorController.cs`
    - `ElevatorDispatcher.cs`
    - `FloorButton.cs`
